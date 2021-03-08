@@ -6,17 +6,18 @@ import Resume from "./Resume/Resume-index";
 import Contact from "./Contact/contact-index";
 
 function PortfolioContainer() {
-  const [currentPage, handlePageChange] = useState("Home");
+  const [currentPage, handlePageChange] = useState("About");
   const renderPage = () => {
     switch (currentPage) {
       case "About":
         return <About></About>;
-      case "Portfoliof":
+      case "Portfolio":
         return <Portfolio></Portfolio>;
       case "Contact":
         return <Contact></Contact>;
       case "Resume":
         return <Resume></Resume>;
+        default:
     }
   };
   return(
