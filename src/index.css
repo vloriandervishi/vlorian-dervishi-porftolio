@@ -5,9 +5,110 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+   color: var(--primary);
+    background-color: var(--light);
+    line-height: 1.5;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+:root {
+  --primary: rgba(68, 88, 119, 1);
+  --secondary: rgba(121, 130, 133, 0.986);
+  --tertiary: rgba(49, 52, 61, 1);
+  --dark: rgba(28, 59, 33, 1);
+  --light: rgba(56, 16, 16, 0.322);
+}
+p {
+    
+  margin:0;
+  font-size: 2vw;
+  line-height: 2;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+main {
+  margin-top: 20px;
+  margin-bottom: 45px;
+}
+.CenterName{
+  text-align: center;
+}
+@media screen and (max-width: 980px) {
+  header {
+    padding: 0 0 10px 0;
+    justify-content: center;
+    text-align: center;
+  }
+
+  header h1 {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-size: 10vw;
+  }
+
+  header nav {
+    justify-content: center;
+  }
+
+  .page-section > h2,
+  .page-section > div {
+    flex: 0 0 100%;
+  }
+
+  .page-section > h2 {
+    border-right: none;
+    border-bottom: 4px solid var(--primary);
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    text-align: left;
+    font-size: 7vw;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .grid-item,
+  .grid-item:first-child {
+    grid-column: 1 / -1;
+  }
+
+  .grid-container {
+    grid-auto-rows: minmax(200px, 1fr);
+  }
+
+  .hero-banner {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .contact address {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+.img{
+ /* margin: 1vh;
+ padding:1vh; */
+}
+.mx-2 {
+  margin-right: var(--spacing-two);
+  margin-left: var(--spacing-two);
+  
+}
+.mx-1 {
+  margin-right: var(--spacing-one);
+  margin-left: var(--spacing-one);
+}
+.navActive {
+  color: var(--secondary);
 }
