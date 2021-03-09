@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/vlorian-dervishi-porftolio/static/css/main.68b2150d.chunk.css",
+    "main.js": "/vlorian-dervishi-porftolio/static/js/main.86e7b466.chunk.js",
+    "main.js.map": "/vlorian-dervishi-porftolio/static/js/main.86e7b466.chunk.js.map",
+    "runtime-main.js": "/vlorian-dervishi-porftolio/static/js/runtime-main.26acdee7.js",
+    "runtime-main.js.map": "/vlorian-dervishi-porftolio/static/js/runtime-main.26acdee7.js.map",
+    "static/js/2.292b4135.chunk.js": "/vlorian-dervishi-porftolio/static/js/2.292b4135.chunk.js",
+    "static/js/2.292b4135.chunk.js.map": "/vlorian-dervishi-porftolio/static/js/2.292b4135.chunk.js.map",
+    "static/js/3.e4e1307f.chunk.js": "/vlorian-dervishi-porftolio/static/js/3.e4e1307f.chunk.js",
+    "static/js/3.e4e1307f.chunk.js.map": "/vlorian-dervishi-porftolio/static/js/3.e4e1307f.chunk.js.map",
+    "index.html": "/vlorian-dervishi-porftolio/index.html",
+    "static/css/main.68b2150d.chunk.css.map": "/vlorian-dervishi-porftolio/static/css/main.68b2150d.chunk.css.map",
+    "static/js/2.292b4135.chunk.js.LICENSE.txt": "/vlorian-dervishi-porftolio/static/js/2.292b4135.chunk.js.LICENSE.txt",
+    "static/media/IMG_0006.be3393b2.jpg": "/vlorian-dervishi-porftolio/static/media/IMG_0006.be3393b2.jpg",
+    "static/media/Studio - Google Chrome 3_8_2021 10_37_38 PM.b6e5e35c.png": "/vlorian-dervishi-porftolio/static/media/Studio - Google Chrome 3_8_2021 10_37_38 PM.b6e5e35c.png",
+    "static/media/VictorsDealerShipScreenShot.85529a4e.jpg": "/vlorian-dervishi-porftolio/static/media/VictorsDealerShipScreenShot.85529a4e.jpg",
+    "static/media/code-quiz.0a9199a1.gif": "/vlorian-dervishi-porftolio/static/media/code-quiz.0a9199a1.gif",
+    "static/media/logo.6ce24c58.svg": "/vlorian-dervishi-porftolio/static/media/logo.6ce24c58.svg",
+    "static/media/noteTaker.60bd0f5e.png": "/vlorian-dervishi-porftolio/static/media/noteTaker.60bd0f5e.png",
+    "static/media/offlineWeb.251f8b83.jfif": "/vlorian-dervishi-porftolio/static/media/offlineWeb.251f8b83.jfif",
+    "static/media/screenshot-1.1f290aeb.jpg": "/vlorian-dervishi-porftolio/static/media/screenshot-1.1f290aeb.jpg",
+    "static/media/team-00p.909ceddd.gif": "/vlorian-dervishi-porftolio/static/media/team-00p.909ceddd.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26acdee7.js",
+    "static/js/2.292b4135.chunk.js",
+    "static/css/main.68b2150d.chunk.css",
+    "static/js/main.86e7b466.chunk.js"
+  ]
+}
