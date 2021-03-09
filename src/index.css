@@ -190,6 +190,13 @@ main {
   padding: 8px 10px;
 }
 
+.footerContainer{
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+  
+  list-style-type: none;
+}
 .grid-item h3 {
   font-size: 1.6rem;
 }
