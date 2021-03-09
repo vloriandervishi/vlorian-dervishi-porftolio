@@ -9,31 +9,32 @@ function Resume(props) {
        
    
     <div style={{ textAlign: "center" }}>
-        <a href="./Resume.pdf" download>Resume</a>
+        
       <ul style={{ listStyleType: "none" }}>
         
         <li style={{ textAlign: "center" }}>
-          <h2>Front-End</h2>
+          
         </li>
-
-        <li>CSS</li>
-        <li>Javascript</li>
-        <li>ReactJS</li>
-        <li>Boostrap</li>
-        <li>JQUERY</li>
+        <li><a style={{ textAlign: "center" }}href="./Resume.pdf" download><h1>Resume</h1></a></li>
+        <h2>Front-End</h2>
+        <li><h4>HTML</h4></li>
+        <li><h4>CSS</h4></li>
+        <li><h4>Javascript</h4></li>
+        <li><h4>ReactJS</h4></li>
+        <li><h4>Boostrap</h4></li>
+        <li><h4>JQUERY</h4></li>
         <br></br>
         <li style={{ textAlign: "center" }}>
           <h2>Back-End</h2>
         </li>
-        <li>WEB API's</li>
-        <li>MongoDB</li>
-        <li>Sequelize</li>
-        <li>MVC</li>
-        <li>CRM</li>
-        <li>MySQL</li>
-        <li>NoSQL</li>
-        <li>ExpressJS</li>
-        <li>REST API</li>
+        <li><h4>WEB API's</h4></li>
+        <li><h4>MongoDB</h4></li>
+        <li><h4>Sequelize</h4></li>
+        <li><h4>MVC</h4></li>
+        <li><h4>CRM</h4></li>
+        <li><h4>MySQL</h4></li>
+        <li><h4>NoSQL</h4></li>
+        <li><h4>ExpressJS</h4></li>
       </ul>
     </div>
   );
