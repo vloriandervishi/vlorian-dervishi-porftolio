@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vlorian-dervishi-porftolio/static/css/main.68b2150d.chunk.css",
-    "main.js": "/vlorian-dervishi-porftolio/static/js/main.86e7b466.chunk.js",
-    "main.js.map": "/vlorian-dervishi-porftolio/static/js/main.86e7b466.chunk.js.map",
+    "main.js": "/vlorian-dervishi-porftolio/static/js/main.e28b5c75.chunk.js",
+    "main.js.map": "/vlorian-dervishi-porftolio/static/js/main.e28b5c75.chunk.js.map",
     "runtime-main.js": "/vlorian-dervishi-porftolio/static/js/runtime-main.26acdee7.js",
     "runtime-main.js.map": "/vlorian-dervishi-porftolio/static/js/runtime-main.26acdee7.js.map",
     "static/js/2.292b4135.chunk.js": "/vlorian-dervishi-porftolio/static/js/2.292b4135.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.26acdee7.js",
     "static/js/2.292b4135.chunk.js",
     "static/css/main.68b2150d.chunk.css",
-    "static/js/main.86e7b466.chunk.js"
+    "static/js/main.e28b5c75.chunk.js"
   ]
 }
