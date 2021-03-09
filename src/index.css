@@ -14,7 +14,8 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   color: var(--primary);
   background-color: var(--light);
   line-height: 1.5;
@@ -64,7 +65,11 @@ nav a {
   padding: 5px 10px;
   color: var(--secondary);
   margin-right: 10px;
-  background-image: linear-gradient(270deg, var(--secondary) 0%, var(--secondary) 100%);
+  background-image: linear-gradient(
+    270deg,
+    var(--secondary) 0%,
+    var(--secondary) 100%
+  );
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
   background-position: bottom;
@@ -177,8 +182,8 @@ main {
 
 /* feature first portfolio item */
 .grid-item:first-child {
-    grid-column: span 8;
-    grid-row: span 2;
+  grid-column: span 8;
+  grid-row: span 2;
 }
 
 .grid-item:hover {
@@ -190,11 +195,11 @@ main {
   padding: 8px 10px;
 }
 
-.footerContainer{
+.footerContainer {
   display: flex;
   justify-content: space-around;
-  align-items:center;
-  
+  align-items: center;
+
   list-style-type: none;
 }
 .grid-item h3 {
@@ -215,7 +220,11 @@ main {
   text-decoration: none;
   font-size: 1.3rem;
   font-style: normal;
-  background-image: linear-gradient(270deg, var(--primary) 0%, var(--primary) 100%);
+  background-image: linear-gradient(
+    270deg,
+    var(--primary) 0%,
+    var(--primary) 100%
+  );
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
   background-position: bottom;
@@ -232,23 +241,23 @@ main {
 PORTFOLIO PROJECT IMAGES
 /* .run-buddy {
   background-image: url("../images/02-run-buddy.jpg");
-}
+} */
 
-.led-wall {
+/* .led-wall {
   background-image: url("../images/02-portfolio-1.jpg");
-}
+} */
 
-.react-calc {
+/* .react-calc {
   background-image: url("../images/02-portfolio-2.jpg");
-}
+} */
 
-.Victor {
-  background-image: url("../images/02-portfolio-3.jpg");
+/* .Victor {
+  background-image: url("./assets/images/VictorsDealerShipScreenShot.jpg");
 }
 
 .OffbeatenPath {
-  background-image: url("../images/02-portfolio-4.jpg"); */
-/* } */
+  background-image: url("./assets/images/screenshot-1.jpg"); 
+} */
 
 /* END PORTFOLIO PROJECT IMAGES */
 
@@ -262,10 +271,11 @@ PORTFOLIO PROJECT IMAGES
   margin-bottom: 15px;
   margin-top: 5px;
   border-radius: 10px;
-  background-color: rgba(255,255,255, 0.75);
+  background-color: rgba(255, 255, 255, 0.75);
 }
-.contact-form input:focus, .contact-form textarea:focus {
-  background-color: rgba(255,255,255, 1);
+.contact-form input:focus,
+.contact-form textarea:focus {
+  background-color: rgba(255, 255, 255, 1);
   outline: none;
 }
 .contact-form button {
