@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vlorian-dervishi-porftolio/static/css/main.68b2150d.chunk.css",
-    "main.js": "/vlorian-dervishi-porftolio/static/js/main.e28b5c75.chunk.js",
-    "main.js.map": "/vlorian-dervishi-porftolio/static/js/main.e28b5c75.chunk.js.map",
+    "main.js": "/vlorian-dervishi-porftolio/static/js/main.ccddac04.chunk.js",
+    "main.js.map": "/vlorian-dervishi-porftolio/static/js/main.ccddac04.chunk.js.map",
     "runtime-main.js": "/vlorian-dervishi-porftolio/static/js/runtime-main.26acdee7.js",
     "runtime-main.js.map": "/vlorian-dervishi-porftolio/static/js/runtime-main.26acdee7.js.map",
     "static/js/2.292b4135.chunk.js": "/vlorian-dervishi-porftolio/static/js/2.292b4135.chunk.js",
@@ -20,12 +20,13 @@
     "static/media/noteTaker.60bd0f5e.png": "/vlorian-dervishi-porftolio/static/media/noteTaker.60bd0f5e.png",
     "static/media/offlineWeb.251f8b83.jfif": "/vlorian-dervishi-porftolio/static/media/offlineWeb.251f8b83.jfif",
     "static/media/screenshot-1.1f290aeb.jpg": "/vlorian-dervishi-porftolio/static/media/screenshot-1.1f290aeb.jpg",
+    "static/media/screenshot.art.painting.search.a5302694.png": "/vlorian-dervishi-porftolio/static/media/screenshot.art.painting.search.a5302694.png",
     "static/media/team-00p.909ceddd.gif": "/vlorian-dervishi-porftolio/static/media/team-00p.909ceddd.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.26acdee7.js",
     "static/js/2.292b4135.chunk.js",
     "static/css/main.68b2150d.chunk.css",
-    "static/js/main.e28b5c75.chunk.js"
+    "static/js/main.ccddac04.chunk.js"
   ]
 }
