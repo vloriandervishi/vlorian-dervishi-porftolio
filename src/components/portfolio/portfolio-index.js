@@ -7,6 +7,7 @@ import noteTaker from "../../assets/images/noteTaker.png";
 import offline from "../../assets/images/offlineWeb.jfif";
 import studio from "../../assets/images/Studio - Google Chrome 3_8_2021 10_37_38 PM.png";
 import oop from "../../assets/images/team-00p.gif";
+import art from "../../assets/images/screenshot.art.painting.search.png";
 function Portfolio() {
   return (
     <div className="grid-container">
@@ -101,7 +102,21 @@ function Portfolio() {
           </h3>
         </div>
       </a>
+      <a
+        href="https://young-lake-28602.herokuapp.com/"
+        className="grid-item"
+        style={{ backgroundImage: `url(${art})` }}
+      >
+        <div>
+          <h3>
+            <a href="https://github.com/vloriandervishi/artist-store.git">
+              Art Painting Search Engine
+            </a>
+          </h3>
+        </div>
+      </a>
     </div>
+    
   );
 }
 

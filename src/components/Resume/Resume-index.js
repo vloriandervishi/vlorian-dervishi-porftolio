@@ -35,6 +35,8 @@ function Resume(props) {
         <li><h4>MySQL</h4></li>
         <li><h4>NoSQL</h4></li>
         <li><h4>ExpressJS</h4></li>
+        <li><h4>Apollo-Server</h4></li>
+        <li><h4>Graph-QL</h4></li>
       </ul>
     </div>
   );
