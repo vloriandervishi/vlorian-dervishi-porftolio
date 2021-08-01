@@ -42,6 +42,7 @@ function Contact() {
 
   return (
     <section>
+      <div align="middle">
       <form id="contact-form" onSubmit={handleSubmit}>
         <div>
           <label htmlFor="name">Name:</label>
@@ -77,6 +78,7 @@ function Contact() {
         )}
         <button type="submit">Submit</button>
       </form>
+      </div>
     </section>
   );
 }
