@@ -31,12 +31,12 @@
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-color: var(--tertiary);
+    background-image:url("../../../assets/images/1_lht_D8C-N7voDo7VLPU4uA.jpeg");
     box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
   }
   .header h1 {
     color: var(--tertiary);
-    background-color: var(--secondary);
+    background-image:url("../../../assets/images/1_lht_D8C-N7voDo7VLPU4uA.jpeg");
     padding: 5px 1% 5px 6%;
     margin: 0;
     font-size: 4vw;
