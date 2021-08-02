@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/vlorian-dervishi-porftolio/static/css/main.1a656a76.chunk.css",
-    "main.js": "/vlorian-dervishi-porftolio/static/js/main.3de4a834.chunk.js",
-    "main.js.map": "/vlorian-dervishi-porftolio/static/js/main.3de4a834.chunk.js.map",
+    "main.css": "/vlorian-dervishi-porftolio/static/css/main.65ba27a1.chunk.css",
+    "main.js": "/vlorian-dervishi-porftolio/static/js/main.6209a7db.chunk.js",
+    "main.js.map": "/vlorian-dervishi-porftolio/static/js/main.6209a7db.chunk.js.map",
     "runtime-main.js": "/vlorian-dervishi-porftolio/static/js/runtime-main.26acdee7.js",
     "runtime-main.js.map": "/vlorian-dervishi-porftolio/static/js/runtime-main.26acdee7.js.map",
     "static/js/2.292b4135.chunk.js": "/vlorian-dervishi-porftolio/static/js/2.292b4135.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.e4e1307f.chunk.js": "/vlorian-dervishi-porftolio/static/js/3.e4e1307f.chunk.js",
     "static/js/3.e4e1307f.chunk.js.map": "/vlorian-dervishi-porftolio/static/js/3.e4e1307f.chunk.js.map",
     "index.html": "/vlorian-dervishi-porftolio/index.html",
-    "static/css/main.1a656a76.chunk.css.map": "/vlorian-dervishi-porftolio/static/css/main.1a656a76.chunk.css.map",
+    "static/css/main.65ba27a1.chunk.css.map": "/vlorian-dervishi-porftolio/static/css/main.65ba27a1.chunk.css.map",
     "static/js/2.292b4135.chunk.js.LICENSE.txt": "/vlorian-dervishi-porftolio/static/js/2.292b4135.chunk.js.LICENSE.txt",
     "static/media/style.css": "/vlorian-dervishi-porftolio/static/media/1_lht_D8C-N7voDo7VLPU4uA.cb9ee447.jpeg",
     "static/media/Associate of Science Degree.b076ea9e.png": "/vlorian-dervishi-porftolio/static/media/Associate of Science Degree.b076ea9e.png",
@@ -23,6 +23,7 @@
     "static/media/logo.6ce24c58.svg": "/vlorian-dervishi-porftolio/static/media/logo.6ce24c58.svg",
     "static/media/noteTaker.60bd0f5e.png": "/vlorian-dervishi-porftolio/static/media/noteTaker.60bd0f5e.png",
     "static/media/offlineWeb.251f8b83.jfif": "/vlorian-dervishi-porftolio/static/media/offlineWeb.251f8b83.jfif",
+    "static/media/resume-logo.4f2a95b2.png": "/vlorian-dervishi-porftolio/static/media/resume-logo.4f2a95b2.png",
     "static/media/screenshot-1.1f290aeb.jpg": "/vlorian-dervishi-porftolio/static/media/screenshot-1.1f290aeb.jpg",
     "static/media/screenshot.art.painting.search.a5302694.png": "/vlorian-dervishi-porftolio/static/media/screenshot.art.painting.search.a5302694.png",
     "static/media/team-00p.909ceddd.gif": "/vlorian-dervishi-porftolio/static/media/team-00p.909ceddd.gif",
@@ -31,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.26acdee7.js",
     "static/js/2.292b4135.chunk.js",
-    "static/css/main.1a656a76.chunk.css",
-    "static/js/main.3de4a834.chunk.js"
+    "static/css/main.65ba27a1.chunk.css",
+    "static/js/main.6209a7db.chunk.js"
   ]
 }
