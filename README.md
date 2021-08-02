@@ -4,8 +4,7 @@
 Built a portfolio to show case all of my work with react.
 
 
-![Portolio](https://user-images.githubusercontent.com/69487303/110422185-76042480-8064-11eb-8d7a-b0344b245ccd.png)
-## Bulit With
+![new-screenshot](https://user-images.githubusercontent.com/69487303/127791011-cb37a8cc-2deb-4228-b4fc-8030fcbed80f.png)## Bulit With
 * HTML
 * CSS
 * React
