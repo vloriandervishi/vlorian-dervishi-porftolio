@@ -7,8 +7,7 @@ function About(){
             <div align="middle"> <img class="dbt" src={picture}></img>
                 <p id="abtmep"> A Web developer with background in mechnical/electrical engineer. 
                     Graduated with bachelors in Information Technology from Middle Tennesee State University and Associate of Science Degree in Computer Science.
-                     Obtained my Web Developement Certificaton from Vanderbilt Coding Bootcamp. I am proficient in HTML, CSS,JAVASCRIPT,MERN-STACK. A self-led learner who is never afraid
-                     of taking the initiative. A problem-solver and ambitious to get things done. </p>
+                     Obtained my Web Developement Certificaton from Vanderbilt Coding Bootcamp. I am proficient in HTML, CSS,JAVASCRIPT,MERN-STACK. </p>
             </div>
         </section>
     );
