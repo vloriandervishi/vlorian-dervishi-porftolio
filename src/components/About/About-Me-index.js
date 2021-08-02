@@ -5,7 +5,7 @@ function About(){
         <section>
             <h2 className="page-section"id="about"  ></h2>
             <div align="middle"> <img class="dbt" src={picture}></img>
-                <p > A Web developer with background in mechnical/electrical engineer. 
+                <p id="abtmep"> A Web developer with background in mechnical/electrical engineer. 
                     Graduated with bachelors in Information Technology from Middle Tennesee State University and Associate of Science Degree in Computer Science.
                      Obtained my Web Developement Certificaton from Vanderbilt Coding Bootcamp. I am proficient in HTML, CSS,JAVASCRIPT,MERN-STACK. A self-led learner who is never afraid
                      of taking the initiative a problem-solver and a ambitious to get things done. </p>
